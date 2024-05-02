@@ -58,7 +58,7 @@ setuptools.setup(
         'scikit-learn',
         'mef-tools',
         'tqdm',
-        'matplotlib'
+        'zmq'
     ]
 )
 
